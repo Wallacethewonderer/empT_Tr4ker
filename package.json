@@ -1,0 +1,17 @@
+{
+  "name": "empt_tr4ker",
+  "version": "1.0.0",
+  "description": "A simple command-line application which is used to track employees info from a database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.4"
+  }
+}
